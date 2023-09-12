@@ -1,2 +1,2 @@
-# stat-201-project_template
-Template project repository for stat-201
+# Household vs Handheld: A statistical report on the mean sales of handheld devices vs home consoles.
+This is a course project for 2023S Stat 201. The project can be found at [project.ipynb](https://github.com/xonew/Stat-201-21-Project/blob/main/project.ipynb).
